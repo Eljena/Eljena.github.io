@@ -1,1 +1,3 @@
 # projectTea
+
+Zur Übung
